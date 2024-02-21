@@ -1,0 +1,36 @@
+  body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  }
+
+  .navbar {
+    background: #000000;
+  }
+  .nav-link {
+    color: #ffffff;
+  }
+  .nav-link:hover {
+    color: #5B8FB9;
+  }
+  .menulogo {
+    height: 40px;
+    width: 40px;
+  }
+  
+  footer{
+    background: #000000;
+    margin-top: auto;
+  }
+
+  .copyright {
+    color: #ffffff;
+  }
+
+  .link-footer {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .link-footer:hover {
+    color: #5B8FB9;
+  }
